@@ -10,6 +10,7 @@ Piggy is a daily expenditure and savings management app.
 * Saving or Loan accounts/ Different kinds of accounts management
 * Custom Group Accounts
 
-### Advanced Feature
+### Advanced Features
 * Salary Accounts
 * Graphical Visualization
+* Cloud Sync
